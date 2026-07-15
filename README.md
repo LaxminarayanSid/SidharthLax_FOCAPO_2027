@@ -1,5 +1,7 @@
 This repository contains the code which can generate the figures shown in the paper.
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/32b59bc4-1f64-4301-b693-d86c9dbf80c7" />
+
+<img width="283" height="102" alt="image" src="https://github.com/user-attachments/assets/d7338a52-15c1-486c-b6df-64fddab53e20" />
+
 
 The following libraries are required to run the code:
 Scikit learn
