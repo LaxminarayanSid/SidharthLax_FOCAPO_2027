@@ -13,8 +13,8 @@ Tensor flow
 Matplotlib
 Each code file corresponds to an image and analysis performed in the results and discussion section:
 
-$$ \huge \text{This is huge text} $$
-$$ \Large \text{This is large text} $$
+\huge \text{This is huge text}
+\Large \text{This is large text}
 
 **Gen_Raman_processes** : This jupyter notebook shows how the synthetic Raman process data is constructed and has the code which generates figure 2
 
