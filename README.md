@@ -13,6 +13,9 @@ Tensor flow
 Matplotlib
 Each code file corresponds to an image and analysis performed in the results and discussion section:
 
+$$ \huge \text{This is huge text} $$
+$$ \Large \text{This is large text} $$
+
 **Gen_Raman_processes** : This jupyter notebook shows how the synthetic Raman process data is constructed and has the code which generates figure 2
 
 **Generate_training_data** : This jupyter notebook creates the synthetic Raman process data for the three axis explored :- (i) Scenarios 1-3, (ii) Inhibition strength, and (iii) Spectral overlap and saves it in the Train Conditions sub-directory
