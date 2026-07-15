@@ -6,11 +6,17 @@ This repository contains the code which can generate the figures shown in the pa
 The following libraries are required to run the code:
 
 (i) Scikit learn
+
 (ii) Numpy
+
 (iii) Scipy
+
 (iv) Pyomo
+
 (v) Ipopt optimization solver
+
 (vi) Tensor flow
+
 (vii) Matplotlib
 
 ## Synthetic time-resolved process Raman data generation
