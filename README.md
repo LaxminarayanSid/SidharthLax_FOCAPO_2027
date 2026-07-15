@@ -1,4 +1,4 @@
-This repository contains the code which can generate the figures shown in the paper.
+This repository contains the code which can generate the figures shown in the paper. The image shown below captures the synthetic case study that was analzyed in the paper
 
 <img width="384" height="136" alt="image" src="https://github.com/user-attachments/assets/d7338a52-15c1-486c-b6df-64fddab53e20" />
 
